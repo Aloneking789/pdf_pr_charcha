@@ -24,3 +24,25 @@ The **Pdf_pe_Charcha** project facilitates interactive discussions and informati
 
 This combination of **Streamlit**, **language processing**, and **retrieval tools** makes **Pdf_pe_Charcha** a powerful tool for extracting and interacting with information in PDF documents.
 
+# Run Commands Before Execution
+
+```bash
+pip install --upgrade pip
+pip install PyPDF2
+pip install langchain
+pip install dotenv
+pip install -U langchain-community
+pip install python-dotenv
+pip install langchain_anthropic
+pip install langchain_openai
+pip install spacy
+pip install streamlit
+pip install faiss-cpu
+python -m spacy download en_core_web_sm
+```
+# Single Command 
+```bash
+pip install --upgrade pip && pip install PyPDF2 && pip install langchain && pip install dotenv && pip install -U langchain-community && pip install python-dotenv && pip install langchain_anthropic && pip install langchain_openai && pip install spacy && pip install streamlit && pip install faiss-cpu
+```
+
+
