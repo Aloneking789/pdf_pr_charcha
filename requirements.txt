@@ -1,0 +1,11 @@
+--upgrade pip
+PyPDF2
+langchain
+dotenv
+-U langchain-community
+python-dotenv
+langchain_anthropic
+langchain_openai
+spacy
+streamlit
+faiss-cpu
