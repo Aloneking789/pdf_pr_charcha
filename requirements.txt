@@ -1,4 +1,3 @@
-pip install --upgrade pip
 PyPDF2
 langchain
 dotenv
