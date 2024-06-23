@@ -1,3 +1,4 @@
+--upgrade pip==24.1
 PyPDF2
 langchain
 dotenv
@@ -8,3 +9,4 @@ langchain_openai
 spacy
 streamlit
 faiss-cpu
+
